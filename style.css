@@ -137,4 +137,8 @@ img:hover {
   .btn {
     width: 50%;
   }
+
+  img:hover {
+    transform: scale(1.5);
+  }
 }
