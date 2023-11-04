@@ -26,6 +26,7 @@ body {
   align-items: center;
   margin: 1rem;
   border-radius: 1.5rem;
+  visibility: hidden;
 }
 
 .navbar .logo {
@@ -57,7 +58,8 @@ body {
   height: 100%;
   padding: 1rem;
   border-radius: 2rem;
-  transition: all 0.3s ease-in-out;
+  /* transition: all 0.3s ease-in-out; */
+  visibility: hidden;
 }
 
 img:hover {
